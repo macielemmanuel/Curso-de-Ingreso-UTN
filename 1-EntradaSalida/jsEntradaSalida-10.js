@@ -19,5 +19,5 @@ function mostrarAumento()
 
 	document.getElementById("txtIdResultado").value = sueldo - (sueldo * descuento) ;
 
-	alert("ok");
+	alert("todo pillo");
 }
